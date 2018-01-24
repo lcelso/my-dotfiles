@@ -1,1 +1,3 @@
-# my-dotfiles
+# Dotfiles
+
+My basic configuration files.
